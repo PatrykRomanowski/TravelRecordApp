@@ -1,0 +1,15 @@
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.deps.json
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.dll
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\ref\TravelRecordApp.dll
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.AssemblyReference.cache
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfoInputs.cache
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfo.cs
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ref\TravelRecordApp.dll
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
