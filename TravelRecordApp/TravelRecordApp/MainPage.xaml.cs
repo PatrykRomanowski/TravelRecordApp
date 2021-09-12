@@ -14,5 +14,12 @@ namespace TravelRecordApp
         {
             InitializeComponent();
         }
+
+     
+
+        private void loginButton_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
