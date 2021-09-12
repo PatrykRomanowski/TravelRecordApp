@@ -1,0 +1,8 @@
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\optimized\
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.AssemblyReference.cache
+C:\XAMARIN\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CoreCompileInputs.cache
